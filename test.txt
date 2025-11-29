@@ -1,8 +1,9 @@
-TES
-1
-
-3
-
-Test
+XTES
 
 
+
+
+
+
+
+zmiana po dodaniu brancza
